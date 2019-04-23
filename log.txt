@@ -1,0 +1,18 @@
+Implementation Log:
+
+Monday, April 15, 2019 - 9:34 PM
+	-Initial database created
+	-Customer, Issue, Customer_Support, Publisher, Video_Game, Sale tables created
+
+Wednesday, April 17, 2019 - 12:16 PM
+	-Changed tinyint to varchar for various variables
+	-Syntax corrections
+
+Friday, April 19, 2019 - 6:48 PM
+	-Moved insert publisher id to before insert video game table
+	-Syntax corrections
+
+Sunday, April 21, 2019 - 11:39 PM
+	-Minor data refinements, removed duplicates
+	-Syntax corrections
+
